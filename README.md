@@ -1,2 +1,2 @@
-# Pinochle
-SWEN30006 Project 2
+# Project 2 Current Version
+The current version for project 2
