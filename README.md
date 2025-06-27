@@ -1,5 +1,8 @@
 # Pinochle Game
 
+![image](https://github.com/user-attachments/assets/588cc3cd-f673-4f59-990a-3d4058afaefb)
+
+
 ## Overview
 
 This project is a digital implementation of the classic Pinochle card game developed for CardCraft Studio, Melbourne. The original version had design and maintainability issues, and this project aims to improve the system's scalability, maintainability, and feature set while preserving the original gameplay.
