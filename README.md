@@ -81,4 +81,3 @@ Pinochle is a trick-taking card game played with a special 48-card deck, consist
 - Kerui Huang
 - Ariff Fikri Bin Mohd Farris
 - Himank Bassi
-- University of Melbourne SWEN30006 Teaching Team (Question Provider)
